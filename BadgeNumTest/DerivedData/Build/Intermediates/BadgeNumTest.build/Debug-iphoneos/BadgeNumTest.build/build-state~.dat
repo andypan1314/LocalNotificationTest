@@ -1,0 +1,418 @@
+TBadgeNumTest
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Info.plist BadgeNumTest/BadgeNumTest-Info.plist
+cProcessPCH /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/main.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSAppDelegate.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSViewController.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest normal armv7
+cGenerateDSYMFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app.dSYM /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest
+cCopyStringsFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/InfoPlist.strings BadgeNumTest/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default.png BadgeNumTest/Default.png
+cCopyPNGFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default@2x.png BadgeNumTest/Default@2x.png
+cCopyPNGFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default-568h@2x.png BadgeNumTest/Default-568h@2x.png
+cCompileXIB /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib
+cCompileXIB /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib
+cProcessProductPackaging "/Users/mumu19860120/Library/MobileDevice/Provisioning Profiles/5873B191-F6BF-4FDB-A085-EC604472D087.mobileprovision" /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/mumu19860120/Library/MobileDevice/Provisioning Profiles/5873B191-F6BF-4FDB-A085-EC604472D087.mobileprovision" /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision
+cTouch /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app
+cProcessProductPackaging /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent
+cCodeSign /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051A8ACC30000000000000110
+t1370008771
+s272
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c0000000050F4C99E00000000000001A7
+t1358219678
+s423
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c0000000050F4C99E00000000000001E5
+t1358219678
+s485
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050F4C9A90000000000322700
+t1358219689
+s3286784
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050F4C9AB000000000062AD10
+t1358219691
+s6466832
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050F4C9AB00000000000015F7
+t1358219691
+s5623
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050F4C9B30000000000000E8D
+t1358219699
+s3725
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050F4C9B400000000011BCDF0
+t1358219700
+s18599408
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c0000000050F4C9C30000000000001B73
+t1358219715
+s7027
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/BadgeNumTest-Prefix.pch
+c00000000529FDE740000000000000147
+t1386208884
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m
+c00000000529FDE7400000000000009E8
+t1386208884
+s2536
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m
+c00000000529FE23A0000000000000679
+t1386209850
+s1657
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/InfoPlist.strings
+c00000000529FDE74000000000000002D
+t1386208884
+s45
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib
+c00000000529FDE75000000000000148F
+t1386208885
+s5263
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib
+c00000000529FDE750000000000001788
+t1386208885
+s6024
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m
+c00000000529FDE74000000000000014F
+t1386208884
+s335
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/BadgeNumTest.LinkFileList
+c00000000529FE262000000000000020D
+t1386209890
+s525
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSAppDelegate.o
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSViewController.o
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-ecpzysvqjkkostgwxjzylgdnkjdn/BadgeNumTest-Prefix.pch.pth
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch.pth
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app.dSYM
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default.png
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default@2x.png
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Info.plist
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/PkgInfo
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/WSViewController_iPad.nib
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/WSViewController_iPhone.nib
+t2
+s0
+
+N/Users/mumu19860120/Library/MobileDevice/Provisioning Profiles/5873B191-F6BF-4FDB-A085-EC604472D087.mobileprovision
+c00000000526A26510000000000002A91
+t1382688337
+s10897
+
+NBadgeNumTest/BadgeNumTest-Info.plist
+c00000000529FE2500000000000000592
+t1386209872
+s1426
+
+CBuild AST from /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m
+r0
+
+CBuild AST from /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m
+r0
+
+CBuild AST from /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfd8380e21950b841^c6df9ae21950b841^---0#1#0#--18"Check dependencies36"3B61E8FE-F901-46BB-B3E4-310075A241A2-
+
+CCodeSign /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app
+s407902693.789762
+e407902694.252678
+r1
+xCodeSign
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"CodeSign DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app7348cae51950b841^08b040e61950b841^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/0000000000000000^980"CodeSign DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv CODESIGN_ALLOCATE /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 2e59775b78470ba2d20e84abbfb78ea740c9d482 --resource-rules=/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist --entitlements /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app36"D033D9AE-CAC5-4207-B735-443F86A7D54E-
+
+CCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSAppDelegate.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407902692.146767
+e407902692.253316
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSAppDelegate.o
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m37c725e41950b841^0ce940e41950b841^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m0000000000000000^3955"CompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSAppDelegate.o BadgeNumTest/WSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-generated-files.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-own-target-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-all-target-headers.hmap -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-project-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/DerivedSources/armv7 -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/DerivedSources -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos -include /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch -MMD -MT dependencies -MF /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSAppDelegate.d --serialize-diagnostics /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSAppDelegate.dia -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSAppDelegate.o36"65AED7DD-B3E2-489D-971A-D330CBB2220E-
+
+CCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSViewController.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407902692.184231
+e407902692.276025
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSViewController.o
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m:38:32: warning: 'addTimeInterval:' is deprecated: first deprecated in iOS 4.0 [-Wdeprecated-declarations]
+o        notification.fireDate=[now addTimeInterval:10];
+o                               ^
+o/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h:27:1: note: method 'addTimeInterval:' declared here
+o- (id)addTimeInterval:(NSTimeInterval)seconds NS_DEPRECATED(10_0, 10_6, 2_0, 4_0);
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m33522fe41950b841^26a746e41950b841^-609"/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m:38:32: warning: 'addTimeInterval:' is deprecated: first deprecated in iOS 4.0 [-Wdeprecated-declarations]        notification.fireDate=[now addTimeInterval:10];                               ^/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h:27:1: note: method 'addTimeInterval:' declared here- (id)addTimeInterval:(NSTimeInterval)seconds NS_DEPRECATED(10_0, 10_6, 2_0, 4_0);^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@61"'addTimeInterval:' is deprecated: first deprecated in iOS 4.0-407902692#18446744073709551615#0#1(2@39"Method 'addTimeInterval:' declared here-407902692#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@184"file://localhost/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h0000000000000000^26#0#26#0#595#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@102"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m0000000000000000^37#31#37#31#1178#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@102"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m0000000000000000^3973"CompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSViewController.o BadgeNumTest/WSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-generated-files.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-own-target-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-all-target-headers.hmap -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-project-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/DerivedSources/armv7 -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/DerivedSources -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos -include /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch -MMD -MT dependencies -MF /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSViewController.d --serialize-diagnostics /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSViewController.dia -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/WSViewController.o36"6A4CAE01-E98E-4FDE-8243-C7BA065913FA-
+
+CCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/main.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407902692.146156
+e407902692.182453
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/main.o
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m249925e41950b841^d9b42ee41950b841^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m0000000000000000^3901"CompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/main.o BadgeNumTest/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-generated-files.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-own-target-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-all-target-headers.hmap -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-project-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/DerivedSources/armv7 -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/DerivedSources -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos -include /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch -MMD -MT dependencies -MF /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/main.dia -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/main.o36"13310899-3968-4EC6-9207-31524119D8FC-
+
+CCompileXIB /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib
+s407902693.169331
+e407902693.221529
+r1
+xCompileXIB
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compiling /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib65712be51950b841^0fb638e51950b841^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib0000000000000000^961"CompileXIB BadgeNumTest/en.lproj/WSViewController_iPad.xib    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode4.6.app/Contents/Developer/usr/bin/..    /Applications/Xcode4.6.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/WSViewController_iPad.nib /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib --sdk /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"ABCA4031-E83B-4C03-AFCC-C74FA8BE3072-
+
+CCompileXIB /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib
+s407902693.011692
+e407902693.653101
+r1
+xCompileXIB
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib
+o2013-12-05 10:18:13.593 Interface Builder Cocoa Touch Tool[6764:14603] CFPreferences: user home directory at file://localhost/Users/mumu19860120/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib611903e51950b841^d158a7e51950b841^-246"2013-12-05 10:18:13.593 Interface Builder Cocoa Touch Tool[6764:14603] CFPreferences: user home directory at file://localhost/Users/mumu19860120/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib0000000000000000^967"CompileXIB BadgeNumTest/en.lproj/WSViewController_iPhone.xib    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode4.6.app/Contents/Developer/usr/bin/..    /Applications/Xcode4.6.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/WSViewController_iPhone.nib /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib --sdk /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"0EE8AF21-29C8-456C-B770-FD953C839BCD-
+
+CCopyPNGFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default-568h@2x.png BadgeNumTest/Default-568h@2x.png
+s407902692.984911
+e407902693.168024
+r1
+xCopyPNGFile
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default-568h@2x.png
+xBadgeNumTest/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"CopyPNGFile DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default-568h@2x.png BadgeNumTest/Default-568h@2x.png813ffce41950b841^19032be51950b841^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default-568h@2x.png0000000000000000^727"CopyPNGFile "DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default-568h@2x.png" "BadgeNumTest/Default-568h@2x.png"    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default-568h@2x.png" "/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default-568h@2x.png"36"1D2772C6-DE74-4959-AC09-7B709599D60B-
+
+CCopyPNGFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default.png BadgeNumTest/Default.png
+s407902692.620363
+e407902692.982621
+r1
+xCopyPNGFile
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default.png
+xBadgeNumTest/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"CopyPNGFile DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default.png BadgeNumTest/Default.png43e69ee41950b841^529cfbe41950b841^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default.png0000000000000000^687"CopyPNGFile DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default.png BadgeNumTest/Default.png    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default.png /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default.png36"9516E7D0-19C1-4179-855A-F85D69FE673A-
+
+CCopyPNGFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default@2x.png BadgeNumTest/Default@2x.png
+s407902692.657105
+e407902693.010356
+r1
+xCopyPNGFile
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default@2x.png
+xBadgeNumTest/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"CopyPNGFile DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default@2x.png BadgeNumTest/Default@2x.png0d52a8e41950b841^bda702e51950b841^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default@2x.png0000000000000000^707"CopyPNGFile "DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default@2x.png" "BadgeNumTest/Default@2x.png"    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default@2x.png" "/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Default@2x.png"36"3BC7CD43-06DF-4EBA-8D6C-B0A7458D3D77-
+
+CCopyStringsFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/InfoPlist.strings BadgeNumTest/en.lproj/InfoPlist.strings
+s407902692.619562
+e407902692.629849
+r1
+xCopyStringsFile
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/InfoPlist.strings
+xBadgeNumTest/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy BadgeNumTest/en.lproj/InfoPlist.stringsaeba9ee41950b841^8541a1e41950b841^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/InfoPlist.strings0000000000000000^654"CopyStringsFile DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj/InfoPlist.strings BadgeNumTest/en.lproj/InfoPlist.strings    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/en.lproj -- BadgeNumTest/en.lproj/InfoPlist.strings36"81883790-A836-40AD-81AC-D9C60BCECC88-
+
+CCpResource /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist
+s407902690.658981
+e407902690.764897
+r1
+xCpResource
+x/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist07cfa8e21950b841^0ce6cbe21950b841^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist000000000080d041^822"CpResource /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app36"8C5981F1-3E71-4190-B154-2C13CCFD6292-
+
+CGenerateDSYMFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app.dSYM /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest
+s407902692.447935
+e407902692.611736
+r1
+xGenerateDSYMFile
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app.dSYM
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generate /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app.dSYM6c0773e41950b841^8eac9ce41950b841^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app.dSYM000000000080d041^761"GenerateDSYMFile DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app.dSYM DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app.dSYM36"17A079B7-17AC-42AB-A1D6-8E9279012966-
+
+CLd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest normal armv7
+s407902692.283339
+e407902692.388620
+r1
+xLd
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTesta4a748e41950b841^b72665e41950b841^---0#0#0#--1271"Ld DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest normal armv7    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos -filelist /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/Objects-normal/armv7/BadgeNumTest.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=4.3 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/BadgeNumTest36"7004C271-ADA8-4ED3-ABF9-91449ADEE317-
+
+CProcessInfoPlistFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Info.plist BadgeNumTest/BadgeNumTest-Info.plist
+s407902690.711545
+e407902690.806606
+r1
+xProcessInfoPlistFile
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Info.plist
+xBadgeNumTest/BadgeNumTest-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process BadgeNumTest/BadgeNumTest-Info.plist2140b6e21950b841^dd07d0e21950b841^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/BadgeNumTest-Info.plist0000000000000000^920"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Info.plist BadgeNumTest/BadgeNumTest-Info.plist    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BadgeNumTest/BadgeNumTest-Info.plist -genpkginfo /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/ResourceRules.plist -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/Info.plist36"FE310DAA-F92B-4E37-A680-09461006BA7C-
+
+CProcessPCH /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/BadgeNumTest/Index/PrecompiledHeaders/BadgeNumTest-Prefix-citnumaxwzparjfqhlqyzagfggks_ast/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/BadgeNumTest/Index/PrecompiledHeaders/BadgeNumTest-Prefix-fyvkybilbpgfktchpjgtbstxclkl_ast/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-ecpzysvqjkkostgwxjzylgdnkjdn/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407902690.864496
+e407902692.139244
+r1
+xProcessPCH
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch.pth
+xBadgeNumTest/BadgeNumTest-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile BadgeNumTest/BadgeNumTest-Prefix.pch7a8bf7e21950b841^fc0024e41950b841^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/BadgeNumTest-Prefix.pch0000000000000000^3812"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-generated-files.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-own-target-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-all-target-headers.hmap -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest-project-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/DerivedSources/armv7 -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/DerivedSources -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch.dia -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/BadgeNumTest-Prefix.pch -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch.pth -MMD -MT dependencies -MF /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-gqhdatduwymewfgquwgviperqtvq/BadgeNumTest-Prefix.pch.d36"118938CA-E1CC-435C-9BD9-3A6BEFC987F3-
+
+CProcessProductPackaging "/Users/mumu19860120/Library/MobileDevice/Provisioning Profiles/5873B191-F6BF-4FDB-A085-EC604472D087.mobileprovision" /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision
+s407902693.706738
+e407902693.710892
+r1
+xProcessProductPackaging
+x/Users/mumu19860120/Library/MobileDevice/Provisioning Profiles/5873B191-F6BF-4FDB-A085-EC604472D087.mobileprovision
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection225"ProcessProductPackaging "/Users/mumu19860120/Library/MobileDevice/Provisioning Profiles/5873B191-F6BF-4FDB-A085-EC604472D087.mobileprovision" DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision4f08b5e51950b841^1614b6e51950b841^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision0000000000000000^778"ProcessProductPackaging "/Users/mumu19860120/Library/MobileDevice/Provisioning Profiles/5873B191-F6BF-4FDB-A085-EC604472D087.mobileprovision" DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/mumu19860120/Library/MobileDevice/Provisioning Profiles/5873B191-F6BF-4FDB-A085-EC604472D087.mobileprovision" -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app/embedded.mobileprovision36"799C1447-8510-4FB9-8B23-3AE06333B03E-
+
+CProcessProductPackaging /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent
+s407902693.768056
+e407902693.781026
+r1
+xProcessProductPackaging
+x/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection251"ProcessProductPackaging /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent78b9c4e51950b841^ceffc7e51950b841^---0#0#0#-19%DVTDocumentLocation2@174"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent000000000080d041^856"ProcessProductPackaging /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphoneos/BadgeNumTest.build/BadgeNumTest.xcent36"94D4F406-F8FB-45AA-B2FC-A6260A84BE71-
+
+CTouch /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app
+s407902693.720694
+e407902693.758829
+r1
+xTouch
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Touch /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app3596b8e51950b841^d042c2e51950b841^---0#0#0#--457"Touch DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphoneos/BadgeNumTest.app36"C14A7BE4-DFE6-4CF0-9525-CCA8A64562CD-
+

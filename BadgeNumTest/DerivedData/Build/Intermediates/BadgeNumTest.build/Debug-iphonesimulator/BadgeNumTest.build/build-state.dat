@@ -1,0 +1,294 @@
+TBadgeNumTest
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Info.plist BadgeNumTest/BadgeNumTest-Info.plist
+cProcessPCH /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/main.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSAppDelegate.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSViewController.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest normal i386
+cGenerateDSYMFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app.dSYM /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050F4CA800000000000228FE0
+t1358219904
+s2265056
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050F4CA8C00000000003DDFA0
+t1358219916
+s4054944
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050F4CA8C00000000000015F7
+t1358219916
+s5623
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050D532860000000000000E8D
+t1356149382
+s3725
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050F4CAC80000000000AB6230
+t1358219976
+s11231792
+
+N/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000050F4CB700000000000001B73
+t1358220144
+s7027
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/BadgeNumTest-Prefix.pch
+c00000000529FDE740000000000000147
+t1386208884
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m
+c00000000529FDE7400000000000009E8
+t1386208884
+s2536
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m
+c00000000529FE23A0000000000000679
+t1386209850
+s1657
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/InfoPlist.strings
+c00000000529FDE74000000000000002D
+t1386208884
+s45
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib
+c00000000529FDE75000000000000148F
+t1386208885
+s5263
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib
+c00000000529FDE750000000000001788
+t1386208885
+s6024
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m
+c00000000529FDE74000000000000014F
+t1386208884
+s335
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/BadgeNumTest.LinkFileList
+c00000000529FE251000000000000021F
+t1386209873
+s543
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSAppDelegate.o
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSViewController.o
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch.pth
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app.dSYM
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Default.png
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Default@2x.png
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Info.plist
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/PkgInfo
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/en.lproj/WSViewController_iPad.nib
+t2
+s0
+
+N/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/en.lproj/WSViewController_iPhone.nib
+t2
+s0
+
+NBadgeNumTest/BadgeNumTest-Info.plist
+c00000000529FE2500000000000000592
+t1386209872
+s1426
+
+CBuild AST from /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m
+r0
+
+CBuild AST from /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m
+r0
+
+CBuild AST from /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese0d8e7d01950b841^3b512ad11950b841^---0#1#0#--18"Check dependencies36"198AD1AB-24DE-49D9-9097-1DC02D8B420D-
+
+CCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSAppDelegate.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407902674.872892
+e407902675.949398
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSAppDelegate.o
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m459fdfd21950b841^8718f3d31950b841^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m0000000000000000^4128"CompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSAppDelegate.o BadgeNumTest/WSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-generated-files.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-own-target-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-all-target-headers.hmap -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-project-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/DerivedSources/i386 -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/DerivedSources -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch -MMD -MT dependencies -MF /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSAppDelegate.d --serialize-diagnostics /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSAppDelegate.dia -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSAppDelegate.m -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSAppDelegate.o36"EB69016D-93A7-4919-88A6-8159F655D486-
+
+CCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSViewController.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407902675.526644
+e407902676.027526
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSViewController.o
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m:38:32: warning: 'addTimeInterval:' is deprecated: first deprecated in iOS 4.0 [-Wdeprecated-declarations]
+o        notification.fireDate=[now addTimeInterval:10];
+o                               ^
+o/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h:27:1: note: method 'addTimeInterval:' declared here
+o- (id)addTimeInterval:(NSTimeInterval)seconds NS_DEPRECATED(10_0, 10_6, 2_0, 4_0);
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m6dac88d31950b841^b70907d41950b841^-623"/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m:38:32: warning: 'addTimeInterval:' is deprecated: first deprecated in iOS 4.0 [-Wdeprecated-declarations]        notification.fireDate=[now addTimeInterval:10];                               ^/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h:27:1: note: method 'addTimeInterval:' declared here- (id)addTimeInterval:(NSTimeInterval)seconds NS_DEPRECATED(10_0, 10_6, 2_0, 4_0);^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@61"'addTimeInterval:' is deprecated: first deprecated in iOS 4.0-407902676#18446744073709551615#0#1(2@39"Method 'addTimeInterval:' declared here-407902676#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@198"file://localhost/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h0000000000000000^26#0#26#0#595#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@102"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m0000000000000000^37#31#37#31#1178#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@102"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m0000000000000000^4146"CompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSViewController.o BadgeNumTest/WSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-generated-files.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-own-target-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-all-target-headers.hmap -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-project-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/DerivedSources/i386 -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/DerivedSources -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch -MMD -MT dependencies -MF /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSViewController.d --serialize-diagnostics /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSViewController.dia -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/WSViewController.m -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/WSViewController.o36"D3777D16-41B5-4757-8C54-141EA96B36CF-
+
+CCompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/main.o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407902674.872044
+e407902675.522712
+r1
+xCompileC
+xDerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/main.o
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m3c67dfd21950b841^9baf86d31950b841^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m0000000000000000^4074"CompileC DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/main.o BadgeNumTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-generated-files.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-own-target-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-all-target-headers.hmap -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-project-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/DerivedSources/i386 -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/DerivedSources -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch -MMD -MT dependencies -MF /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/main.dia -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/main.m -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/main.o36"0D1949F6-9083-4B24-90E5-EB05005F36FC-
+
+CCompileXIB /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPad.xib
+r0
+
+CCompileXIB /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/en.lproj/WSViewController_iPhone.xib
+r0
+
+CCopyStringsFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/en.lproj/InfoPlist.strings BadgeNumTest/en.lproj/InfoPlist.strings
+r0
+
+CCpResource BadgeNumTest/Default-568h@2x.png DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Default-568h@2x.png
+r0
+
+CCpResource BadgeNumTest/Default.png DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Default.png
+r0
+
+CCpResource BadgeNumTest/Default@2x.png DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Default@2x.png
+r0
+
+CGenerateDSYMFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app.dSYM /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest
+s407902676.760740
+e407902677.311230
+r1
+xGenerateDSYMFile
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app.dSYM
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Generate /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app.dSYM38d9c2d41950b841^7de951d51950b841^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app.dSYM000000000080d041^796"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app.dSYM36"F350AAC3-74D6-45C8-A0AB-C2ADB98A06CE-
+
+CLd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest normal i386
+s407902676.035259
+e407902676.753027
+r1
+xLd
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest912709d41950b841^f8c6c0d41950b841^---0#0#0#--1384"Ld DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest normal i386    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/Objects-normal/i386/BadgeNumTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/BadgeNumTest36"D2574C46-4A60-46D5-A746-06E4729ED200-
+
+CProcessInfoPlistFile /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Info.plist BadgeNumTest/BadgeNumTest-Info.plist
+s407902673.173166
+e407902673.235117
+r1
+xProcessInfoPlistFile
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Info.plist
+xBadgeNumTest/BadgeNumTest-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process BadgeNumTest/BadgeNumTest-Info.plist187a2cd11950b841^2c623cd11950b841^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/BadgeNumTest-Info.plist0000000000000000^802"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Info.plist BadgeNumTest/BadgeNumTest-Info.plist    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BadgeNumTest/BadgeNumTest-Info.plist -genpkginfo /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app/Info.plist36"DB956ED8-A944-4277-ADBA-2949D97E20C8-
+
+CProcessPCH /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/BadgeNumTest/Index/PrecompiledHeaders/BadgeNumTest-Prefix-fbuxnskkoalbwldwvcivtsedtrqn_ast/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407902673.274289
+e407902674.864521
+r1
+xProcessPCH
+x/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch.pth
+xBadgeNumTest/BadgeNumTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile BadgeNumTest/BadgeNumTest-Prefix.pch340f4cd11950b841^6b62ddd21950b841^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/BadgeNumTest-Prefix.pch0000000000000000^3961"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch.pth BadgeNumTest/BadgeNumTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-generated-files.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-own-target-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-all-target-headers.hmap -iquote /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/BadgeNumTest-project-headers.hmap -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/DerivedSources/i386 -I/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/BadgeNumTest.build/Debug-iphonesimulator/BadgeNumTest.build/DerivedSources -F/Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch.dia -c /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/BadgeNumTest/BadgeNumTest-Prefix.pch -o /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch.pth -MMD -MT dependencies -MF /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Intermediates/PrecompiledHeaders/BadgeNumTest-Prefix-cdmtclgmnnpsoefppfryfnkwspoz/BadgeNumTest-Prefix.pch.d36"F3580D23-B01C-4354-864A-44A6D0BDE0B1-
+
+CTouch /Users/mumu19860120/Desktop/tmp/myproject/BadgeNumTest/DerivedData/Build/Products/Debug-iphonesimulator/BadgeNumTest.app
+r0
+
